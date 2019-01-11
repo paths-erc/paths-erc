@@ -1,8 +1,11 @@
 ---
 title: PAThs ERC Advanced project
 category: gen
+class: home
 permalink: /
 ---
+
+<img src="/images/css/paths-logo.png" width="150px" class="float-left mr-2 mb-2">
 
 PAThs - Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context: Production, Copying, Usage, Dissemination and Storage
 

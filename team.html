@@ -8,7 +8,7 @@ layout: default
 <div class="row">
 
 {% for item in site.data.team.staff %}
-  <div class="col-6 col-md-3 my-1">
+  <div class="col-12 col-md-4 col-lg-3 my-1">
 
     <div class="card">
       <img src={{"/images/team/" | append: item.image | append: ".jpg" | relative_url }} class="card-img-top" alt="{{ item.name }}">

@@ -34,17 +34,23 @@
 </head>
 
 <body>
-  {% include menu.html %}
-  <div class="jumbotron">
-    <div class="container text-center mt-5">
-      <img class="img-fluid shadow-lg" src="{{ "/images/css/path-header.png" | relative_url }}" alt="Tracking Papyrus and Parchment Paths. An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context: Production, Copying, Usage, Dissemination and Preservation">
-    </div>
+  <div class="img-container">
+    <h1>PAThs<br />
+      <small>Tracking Papyrus and Parchment Paths. An Archaeological Atlas of Coptic Literature.</small>
+    </h1>
+      <!-- <img class="img-fluid shadow-lg" src="{{ "/images/css/paths-header.jpg" | relative_url }}" alt="Tracking Papyrus and Parchment Paths. An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context: Production, Copying, Usage, Dissemination and Preservation"> -->
   </div>
+  {% include menu.html %}
 
   <div class="container">
     <main>
       <article class="{{ page.class }}">
         <h1 class="my-5 pb-2 border-bottom">{{ page.title }}</h1>
+        {% if page.img %}
+        <div class="my-5 text-center">
+          <img src={{ page.img | relative_url }} alt="European Research Council" class="img-fluid img-thumbnail" />
+        </div>
+        {% endif %}
         {{ content }}
       </article>
     </main>
