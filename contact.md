@@ -1,4 +1,10 @@
-# Contact and general informations
+---
+title: Contact and general informations
+category: gen
+order: 2
+permalink: contact
+---
+
 
 ## Paola Buzi
 Dipartimento di Storia Culture Religioni Arte Spettacolo  
@@ -8,7 +14,7 @@ Piazzale Aldo Moro 5, 00185 Roma – Italy
 Tel. + 39 06 49913419  
 <paola.buzi@uniroma1.it>
 
---- 
+---
 
 ## Paths in brief
 - Acronym and title: PAThs - Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context: Production, Copying, Usage, Dissemination and Storage

@@ -1,0 +1,76 @@
+---
+title: Publications
+category: gen
+permalink: publications
+class: publications
+---
+
+### Press (interviews, project presentations, etc.)
+
+- Paola Buzi: Presentation of the PAThs project at the Conference and Workshop "La cultura scritta dell'Egitto bizantino", University of Turin, 5 December 2017 [[https://testiegittobiz.sciencesconf.org/program](https://testiegittobiz.sciencesconf.org/program)].
+- Nathan Carlig: Presentation of the PAThs project at the 16e Journée byzantine de la Société Belge d'études Byzantines, June 2nd, 2017 [[Programme in PDF](sites/default/images/articles/media/8/SBEB_BGBS_Programme_Journée_byzantine_Liège_2_6_2017.pdf)].
+- Interview to the PI Paola Buzi: “L’Atlante multidisciplinare che mette insieme la letteratura, l’archeologia, la codicologia e l’informatica umanistica - Intervista a Prof.ssa **Paola Buzi** (vincitrice di un ERC Advanced Grant)”, di Emanuela Dané (Redazione APRE), in «APRE Magazine» 3, 2017: 34-35. [[http://download.apre.it/03-APRE_Magazine.pdf](http://download.apre.it/03-APRE_Magazine.pdf)]
+- Paola Buzi: Presentation of the  “PAThs” project at the University of Cassino and Southern Latium within the cicle of lectures "è[v]viva la ricerca!" (Cassino, 20.04.2017): [[http://www.unicas.it/media/1638885/e_v_viva_ricerca_programma_ciclo_gennaio_2017.pdf](http://www.unicas.it/media/1638885/e_v_viva_ricerca_programma_ciclo_gennaio_2017.pdf)]
+- Paola Buzi: Presentation of the “PAThs” project during the event Sapienza ERC Week. Celebrating Excellence in Reaserch: 10 anni di ERC in Sapienza (Rome, 13-15.03.2017): [[http://www.uniroma1.it/sites/default/files/allegati_news/Programma%20ERC%20Week.pdf](http://www.uniroma1.it/sites/default/files/allegati_news/Programma%20ERC%20Week.pdf)]
+- Paola Buzi: Presentation of the “PAThs” project on the occasion of the National ERC Day organized by APRE (Rome, 14.07.2016): [[http://www.apre.it/eventi/2016/ii-semestre/giornata-nazionale-erc-2017/](http://www.apre.it/eventi/2016/ii-semestre/giornata-nazionale-erc-2017/)]
+- Paola Buzi: Presentation of the “PAThs” project as keynote speaker on the occasion of the 7th Conference of the Associazione per l'Informatica Umanistica e la Cultura Digitale (Bari, 31.01-02.02.2018): [[http://www.aiucd2018.uniba.it/keynotes.html](http://www.aiucd2018.uniba.it/keynotes.html); [https://www.conftool.net/aiucd2018/sessions.php](https://www.conftool.net/aiucd2018/sessions.php)]
+
+### Scientific publications
+
+- **Buzi**, Paola. 2018. "Egypt, crossroad of translations and literary interweavings (3rd-6th centuries). A reconsideration of earlier Coptic literature", in F. Crevatin (ed.), *Egitto, crocevia di traduzioni*, Trieste 2018, 15-67 [[https://www.openstarts.units.it/handle/10077/21838](https://www.openstarts.units.it/handle/10077/21838)].
+- **Buzi**, Paola. 2017. “Preliminary Remarks on Coptic Biblical Titles (from the Third to the Eleventh Century)”, in *Comparative Oriental Manuscripts Studies* *Bulletin* 3.1, 5-22 (ISSN:2410-0951) [[http://hdl.handle.net/11573/980916](http://hdl.handle.net/11573/980916)].
+- **Buzi**, Paola (forthcoming), "The 9th-century Coptic book revolution and the emergence of Multiple Text Manuscripts", in A. Bausi, M. Friedrich, M. Maniaci (eds.), *The Emergence of* *Multiple Text Manuscripts*, Hamburg 2018 forthcoming.
+- **Buzi**, Paola. 2017. “Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context.  Production, Copying, Usage, Dissemination and Storage (‘PAThs’). A New Project on Coptic Literary Texts”, in *Early Christianity* 8 (2017), 507-516 (ISSN: 1868-7032; online version ISSN: 1868-8020)  [**green open access: freely available from January 2019**].
+- **Buzi**, Paola, Francesco **Berno**, Julian **Bogdani**. 2018. "The ‘PAThs’ Project: an Effort to Represent the Physical Dimension of Coptic Literary Production (Third-Eleventh centuries)", in *Comparative Oriental Manuscripts Studies Bulletin* 4.1, 39-58 (ISSN: 2410-0951) [[https://www.aai.uni-hamburg.de/en/comst/pdf/bulletin4-1/39-58.pdf](https://www.aai.uni-hamburg.de/en/comst/pdf/bulletin4-1/39-58.pdf)]
+
+- **Buzi**, Paola, Julian **Bogdani**, Nathan **Carlig**, Maria Chiara **Giorda**, and Agostino **Soldati**. 2017. “‘Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context. Production, Copying, Usage, Dissemination and Storage’: A New International Project on Coptic Literature and the Role of the Coptic Papyrus Codices of the Museo Egizio for Its Development”, in Rivista del Museo Egizio 1 (2017) [http://rivista.museoegizio.it/article/tracking-papyrus-and-parchment-paths-an-archaeological-atlas-of-coptic-literature-literary-texts-in-their-geographical-context-production-copying-usage-dissemination-and-storage] .
+
+- **Bogdani**, Julian. 2017. “The archaeological Atlas of Coptic Literature. A question of method” in *Vicino Oriente* XXI (2017): 59-69. [<a href="http://hdl.handle.net/11573/1009551">http://hdl.handle.net/11573/1009551</a>]
+
+- **Carlig**, Nathan. 2018. “Dealing with the Stratigraphy of Coptic Codices: the Cases of MSS Pierpont Morgan Library M578 and Coptic Museum, inv. 13446”, in *Comparative Oriental Manuscripts Studies Bulletin* 4.1, 69-78 (ISSN: 2410-0951) [<a href="https://www.aai.uni-hamburg.de/en/comst/pdf/bulletin4-1/69-78.pdf">https://www.aai.uni-hamburg.de/en/comst/pdf/bulletin4-1/69-78.pdf</a>].
+
+- **Ghigo**, Tea, Olivier Bonnerot, Paola **Buzi**, Myriam Krutzsch, Oliver Hahn, and Ira Rabin. 2018.  “An Attempt at a Systematic Study of Inks from Coptic Manuscripts”, in Manuscript cultures 11 (2018): 157-164 [<a href="https://www.manuscript-cultures.uni-hamburg.de/MC/articles/mc11_ghigo_et_al.pdf">https://www.manuscript-cultures.uni-hamburg.de/MC/articles/mc11_ghigo_et_al.pdf</a>].
+
+- **Soldati**, Agostino. 2018. “Some Remarks about Coptic Colophons and Their Relationship with Manuscripts: Typology, Function, and Structure”, in *Comparative Oriental Manuscripts Studies Bulletin* 4.1, 115-120 (ISSN: 2410-0951) [<a href="https://www.aai.uni-hamburg.de/en/comst/pdf/bulletin4-1/115-120.pdf">https://www.aai.uni-hamburg.de/en/comst/pdf/bulletin4-1/115-120.pdf</a>].
+
+- **Soldati**, Agostino. 2017. “A New Piece in the Prosopography Mosaic of the Coptic Scriptorium of Toutōn: Pantouleos, Son of Houmise”, in *Comparative Oriental Manuscripts Studies Bulletin* 3.1, pp. 23-32 (ISSN:2410-0951) [<a href="http://hdl.handle.net/11573/981652">http://hdl.handle.net/11573/981652</a>].
+
+
+### Scientific publications conceived before the official start of PAThs, but strictly related to its goals\*
+
+- **Buzi**, Paola. 2017. “Amedeo Peyron and the Coptic codices from This”**,** in «Egyptian &amp; Egyptological Documents, Archives, Libraries» 5 (2015/2016) [2017], pp. 57-67.
+- **Buzi**, Paola. 2017.  “I titoli delle opere letterarie copte, ovvero quando il paratesto diviene testo”, in «Segno e Testo» 17 (2017), pp. 153-179.
+
+- **Buzi**, Paola. 2017.**  “**Remains of gnomic anthologies and pagan wisdom literature in the Coptic tradition”, in L. Arcari (ed.), *Beyond Conflicts. Cultural and Religious Cohabitations in Alexandria and in Egypt between the 1st and the 6th cent. CE*, Mohr Siebeck, T&uuml;bingen 2017, pp. 131-151.
+
+- **Buzi**, Paola. 2016. “Titoli e colofoni: riflessioni sugli elementi paratestuali dei manoscritti copti saidici”, in A. Sirinian, P. Buzi, G. Shurgaia (eds.), *Colofoni armeni a confronto. Le sottoscrizioni dei manoscritti in ambito armeno e nelle altre tradizioni scrittorie del mondo mediterraneo*, Orientalia Christiana Analecta 299, Roma, pp. 203-217.  [<a href="https://www.academia.edu/31409512/Titoli_e_colofoni_riflessioni_sugli_elementi_paratestuali_dei_manoscritti_copti_saidici">https://www.academia.edu/31409512/Titoli_e_colofoni_riflessioni_sugli_elementi_paratestuali_dei_manoscritti_copti_saidici</a>].
+
+- **Buzi**, Paola. 2016. “From Single-Text to Multiple-Text Manuscripts: Transmission Changes in the Coptic Literary Tradition. Some Case-Studies from the White Monastery Library”, in M. Friedrich, C. Schwarke (eds.), *One-Volume Libraries: Composite and Multiple-Text Manuscripts*, De Gruyter: Berlin, pp. 93-110 [<a href="https://www.degruyter.com/view/books/9783110496956/9783110496956-004/9783110496956-004.xml">https://www.degruyter.com/view/books/9783110496956/9783110496956-004/9783110496956-004.xml</a>].
+
+- **Buzi**, Paola. 2016. “Costantino costruttore, Costantino distruttore: la tradizione letteraria copta”, in T. Canella (ed.), *Costantino e il luoghi santi*, Il Mulino: Bologna, pp. 579-593.
+
+- Pirelli, Rosanna and **Buzi**, Paola. 2016. “The Coptic Site of Manqabad: An Italian-Egyptian Project”, in P. Buzi, A. Camplani, F. Contardi (eds.), *Coptic Society, Literature and Religion from Late Antiquity to Modern Times. Proceedings of the Tenth International Congress of Coptic Studies, Rome, September 17th-22nd, 2012, and Plenary Reports of the Ninth International Congress of Coptic Studies, Cairo, September 15th-19th, 2008*, Orientalia Lovaniensia Analecta 247, Peeters: Leuven - Paris - Bristol, pp. 1431-1444.
+
+- **Buzi**, Paola. 2016. “Re-interpreting History: Constantine and the Constantinian Age in Coptic Hagiography”, in P. Buzi, A. Camplani, F. Contardi (eds.), *Coptic Society, Literature and Religion from Late Antiquity to Modern Times. Proceedings of the Tenth International Congress of Coptic Studies, Rome, September 17th-22nd, 2012, and Plenary Reports of the Ninth International Congress of Coptic Studies, Cairo, September 15th-19th, 2008*, Orientalia Lovaniensia Analecta 247, Peeters: Leuven - Paris - Bristol, pp. 1117-1128.
+
+- **Buzi**, Paola. 2015. (but published in 2016), "Early Christianity in the Fayyum: the new contribution of Archaeology", in* Vicino Oriente* XIX, pp. 85-96 [<a href="http://www.lasapienzatojericho.it/SitoRivista/Publicazioni/VO%20XIX/VO_XIX_PDF_Autori/VO_XIX_085-096_Buzi.pdf">http://www.lasapienzatojericho.it/SitoRivista/Publicazioni/VO%20XIX/VO_XIX_PDF_Autori/VO_XIX_085-096_Buzi.pdf</a>]
+
+- **Bogdani**, Julian. 2016. “Un archivio digitale mulidisciplinare per la gestione e la conservazione di un patrimonio culturale a rischio: il progetto Ghazni (Afghanistan)”, in *Archeologia e Calcolatori*, Supplemento 8, pp. 236-245.
+
+- **Carlig**, Nathan. 2017. “Review of Peter Gemeinhardt, Lieve Van Hoof, Peter Van Nuffelen (ed.), ‘Education and Religion in Late Antique Christianity: Reflections, Social Contexts and Genres’. London; New York: Routledge, 2016”, in Bryn Mawr Classical Review 2017.07.12 [[http://www.bmcreview.org/2017/07/20170712.html](http://www.bmcreview.org/2017/07/20170712.html)].
+
+- **Carlig**, Nathan. 2017. "1. IV Rois 15, 26-34 ; 18, 30-33 ; 18, 37-19, 2 [P.PalauRib.Copt 1]", in Journal of Coptic Studies 19, pp. 21-28 and figg. 1-2.
+
+- **Carlig**, Nathan. 2017. "24. Lettre réutilisée comme exercice d’écriture [P.PalauRib.Copt 24]", in Journal of Coptic Studies 19, pp. 114-117 and figg. 33-34.
+
+- **Carlig**, Nathan. 2017. "Observations codicologiques sur PSI 1.18 + 19 (MP&sup3; 344 + 1207 = LDAB 2412)", in Analecta Papyrologica 29, pp. 145-154.
+
+- **Carlig**, Nathan. 2018. " Réexamen de la tablette scolaire T.Louvre inv. AF 1195 (Antinoé, VIe siècle = MP&sup3; 2714.01)", in P. Davoli , N. Pellé (eds.), &Pi;&omicron;&lambda;&upsilon;&mu;ά&theta;&epsilon;&iota;&alpha;. Studi Classici offerti a Mario Capasso. Pensa Multimedia Editore: Lecce - Brescia, pp. 197-212.
+
+- **Soldati**, Agostino. 2016. “P.Narm. inv. 171: frammento di contratto stipulato tra cittadini di Nuova Teodosiopoli”, in *E s&igrave; d’amici pieno. Omaggio di studiosi italiani a Guido Bastianini per il suo settantesimo compleanno, I. Papirologia - Egittologia*, Papyrologica Florentina, vol. XLV, edited by A. Casanova, G. Messeri and R. Pintaudi. Edizioni Gonnelli: Firenze, pp. 155-161.
+
+- **Soldati**, Agostino 2016. “Nasal infix as index of Semitic loanwords borrowed through the Greek”, in *150 Years after Dillmann's Lexicon: Perspectives and Challenges of Gǝʿǝz Studies* (Supplement to Aethiopica, 5) edited by A. Bausi with the assistance of Eugenia Sokolinski, Harrassowitz Verlag: Wiesbaden, pp. 149-171.
+
+- Castrizio, D. , R. Pintaudi, **A. Soldati** 2017. “Un episodio del conflitto con i Blemmii (?), raffigurato in una stanza dell’area del martyrium di San Colluto”, in *Antinoupolis III, tomo I* edited by Rosario Pintaudi. Firenze University Press: Firenze: 415-457: 455-457. [<a href="http://www.fupress.com/%20catalogo/antinoupolis-iii/3566" target="_blank" rel="noopener">http://www.fupress.com/ catalogo/antinoupolis-iii/3566</a>]
+
+\* The publications listed in this section had been planned  by the team members before the PAThs project was approved and granted. They are mentioned here because strictly related to the scope and the subject of the project. Moreover, they were brought to completion during the grant period and therefore they benefited of the work carried out within the ERC project.

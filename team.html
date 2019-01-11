@@ -1,0 +1,63 @@
+---
+title: PAThs team
+permalink: /team
+layout: default
+
+---
+
+<div class="row">
+
+{% for item in site.data.team.staff %}
+  <div class="col-6 col-md-3 my-1">
+
+    <div class="card">
+      <img src={{"/images/team/" | append: item.image | append: ".jpg" | relative_url }} class="card-img-top" alt="{{ item.name }}">
+      <div class="card-body">
+        <h5 class="card-title">{{ item.title }} {{ item.name }}</h5>
+        <p class="card-text text-secondary">
+          {{ item.position }}
+        </p>
+        <div style="font-size: .9rem" class="text-secondary">
+          <strong>Key aspects of activity:</strong><br>
+          <li>{{ item.tags | join: "</li><li>" }}</li>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% if item.image == 'paola-buzi' %}
+  </div><div class="row">
+  {% endif %}
+
+{% endfor %}
+</div>
+
+<div class="border-top my-5 py-5">
+  Although not formally part of the staff of "PAThs", the following scholars, PhD candidates and students, because of their research interests or training activities, strictly collaborate with the project:
+
+  <h2 class="mt-5">Affiliated collaborators</h2>
+  <ul class="mt-3">
+  {% for item in site.data.team.affiliated %}
+    <li><strong>{{ item.name }}</strong><br />
+      {{ item.position }}</li>
+  {% endfor %}
+  </ul>
+
+
+  <h2 class="mt-5">Phd Students</h2>
+  <ul class="mt-3">
+  {% for item in site.data.team.phd %}
+    <li><strong>{{ item.name }}</strong><br />
+      {{ item.position }}</li>
+  {% endfor %}
+  </ul>
+
+  <h2 class="mt-5">Students</h2>
+  <ul class="mt-3">
+  {% for item in site.data.team.students %}
+    <li><strong>{{ item }}</strong></li>
+  {% endfor %}
+  </ul>
+
+
+</div>

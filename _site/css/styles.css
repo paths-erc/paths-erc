@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5, h6 { font-family: Merriweather; font-weight: bold; }
+
+nav.bg-light { background-color: #8E072B !important; }
+nav.bg-light a { color: #fff !important; }
+
+.news h4 a { color: #8E072C; }
+
+.cooperation ul { list-style: none; }
+.cooperation ul li p { margin-top: 2rem; }
+.cooperation ul li p:after { content: ""; display: table; clear: both; }
+.cooperation ul li p img { display: block; margin: auto; }
+.cooperation ul li p a { display: block; text-align: center; padding-bottom: 1rem; border-bottom: 1px dotted #8E072C; }
+@media (min-width: 768px) { .cooperation ul li p img { float: left; margin-right: 2rem; padding-right: 1rem; border-right: 1px dotted #8E072C; }
+  .cooperation ul li p a { padding-top: 2rem; text-align: left; border-bottom: none; } }

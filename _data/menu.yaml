@@ -1,0 +1,27 @@
+menu_title: Main menu
+docs:
+
+- title: Home
+  url: /
+
+- title: The Atlas
+  url: https://atlas.paths-erc.eu
+
+- title: Other products
+  url: /other-products
+
+- title: Publications
+  url: /publications
+
+- title: Team
+  url: /team
+
+- title: Cooperation
+  url: /cooperation
+
+- title: News
+  url: /news/
+
+
+- title: Contact & info
+  url: /contact

@@ -1,4 +1,9 @@
-# PAThs ERC Advanced project
+---
+title: PAThs ERC Advanced project
+category: gen
+permalink: /
+---
+
 PAThs - Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context: Production, Copying, Usage, Dissemination and Storage
 
 **PAThs** is an **ERC granted project (Advanced Grant 2015)**, aimed to provide an in-depth diachronic understanding and effective representation of the geography of Coptic literary production and in particular of the corpus of literary writings, almost exclusively of religious contents, produced in Egypt between the 3rd and the 11th centuries in the Coptic language.
@@ -13,7 +18,7 @@ An exhaustive digital Atlas of late antique and early mediaeval Egypt – a vers
 PAThs will integrate into its portal the just described archaeological atlas of Coptic literature (main product) with several relational databases (by-products), all of them in keeping with the finality of creating a concrete link between literary production and related geographical and archaeological context:
 
 - A complete classification of Coptic literature, by means of the attribution of a Clavis Coptica (CC) entry to each work and each title, and of a stable identifier to each colophon.
-- A complete census, edition, and translation of all the extant Coptic colophons. Particular attention will be devoted to the terminological aspects and the structural elements of colophons. 
+- A complete census, edition, and translation of all the extant Coptic colophons. Particular attention will be devoted to the terminological aspects and the structural elements of colophons.
 - A complete classification of the Coptic manuscript tradition, by means of the attribution of ‘stable identifiers’ to each manuscript (‘codicological unit’), in order to have univocal coordinates of reference to the entire Coptic book production. Such a classification is progressively expandable as soon as new manuscripts are discovered.
 - A complete census of the relevant sites which are known as places where single manuscripts (for instance codices buried with a body, as a funerary kit) or entire ‘collections’ (for example a monastery library, such as the codices found in the monastery of the Virgin Mary in Deir el-Hammam) have been found. Drawings, photos, maps, and 3D reconstructions of the most relevant sites will be provided.
 - A tentative identification of places and geographical areas where specific works and literary genres have been conceived.
