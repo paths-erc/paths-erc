@@ -4,21 +4,59 @@ category: gen
 permalink: cooperation
 class: cooperation
 items:
-  - [ 'logo_cmcl.png', 'Corpus dei Manoscritti Copti Letterari (Rome-Hamburg)', 'http://www.cmcl.it/' ]
-  - [ 'logo_trismegistos.png', 'Trismegistos: An interdisciplinary portal of papirology and epigraphical resources (Leuven)', 'http://www.trismegistos.org/' ]
-  - [ 'logo_csmc.png', 'CSMC: Center for the Study of Manuscript Cultures (Hamburg)', 'https://www.manuscript-cultures.uni-hamburg.de/index_e.html' ]
-  - [ 'logo_detcsot.png', 'Digital Edition and Translation of the Coptic-Sahidic Old Testament (Göttingen)', 'http://coptot.manuscriptroom.com/' ]
-  - [ 'logo_megizio.png', 'Museo Egizio (Turin)', 'http://www.museoegizio.it/' ]
-  - [ 'britishMuseum.png', 'The British Museum. Department of Ancient Egypt and Sudan (London) - Advisor for PAThs: dr. Elisabeth R. O’Connell.', 'http://www.britishmuseum.org/about_us/departments/staff/ancient_egypt_and_sudan/elisabeth_oconnell.aspx' ]
-  - [ 'logo_elamilano.png', 'Egyptological Library and Archives (Milan)', 'http://www.unimi.it/ENG/university/31835.htm' ]
-  - [ 'logo_betam.png', 'Beta maṣāḥǝft. Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung (Hamburg)', 'https://www.betamasaheft.uni-hamburg.de/' ]
-  - [ 'traces.png', 'TraCES: From Translation to Creation: Changes in Ethiopic Style and Lexicon from Late Antiquity to the Middle Ages (Hamburg)', 'https://www.traces.uni-hamburg.de' ]
-  - [ 'logo_digilab.png', 'DigiLab (Rome) - Advisor for PAThs: dr. Lanfranco Fabriani', 'http://digilab.uniroma1.it/' ]
-  - [ 'cobb_mississipi.png', 'Cobb Institute of Archaeology. College of Arts & Sciences, Mississippi State University', 'http://www.cobb.msstate.edu/' ]
-  - [ 'logoWawaEn.jpg', 'Polish Centre of Mediterranean Archaeology of the University of Warsaw (PCMA) (Warsaw, Poland)', 'http://www.pcma.uw.edu.pl/en/about-pcma/' ]
-  - [ 'bam.png', 'Bundesanstalt für Materialforschung und -prüfung (BAM)', 'https://www.bam.de/Navigation/EN']
----
+  - logo: logo_cmcl.png
+    text: "Corpus dei Manoscritti Copti Letterari (Rome-Hamburg)"
+    url: http://www.cmcl.it/
 
-{% for i in page.items %}
-- ![{{ i[1] }}](images/partners/{{ i[0] }})[**{{i[1]}}**]({{ i[2] }})
+  - logo: logo_trismegistos.png
+    text: "Trismegistos: An interdisciplinary portal of papirology and epigraphical resources (Leuven)"
+    url: http://www.trismegistos.org/
+
+  - logo: logo_csmc.png
+    text: "CSMC: Center for the Study of Manuscript Cultures (Hamburg)"
+    url: https://www.manuscript-cultures.uni-hamburg.de/index_e.html
+
+  - logo: logo_detcsot.png
+    text: "Digital Edition and Translation of the Coptic-Sahidic Old Testament (Göttingen)"
+    url: http://coptot.manuscriptroom.com/
+
+  - logo: logo_megizio.png
+    text: "Museo Egizio (Turin)"
+    url: http://www.museoegizio.it/
+
+  - logo: britishMuseum.png
+    text: "The British Museum. Department of Ancient Egypt and Sudan (London) - Advisor for PAThs: dr. Elisabeth R. O’Connell"
+    url: http://www.britishmuseum.org/about_us/departments/staff/ancient_egypt_and_sudan/elisabeth_oconnell.aspx
+
+  - logo: logo_elamilano.png
+    text: "Egyptological Library and Archives (Milan)"
+    url: http://www.unimi.it/ENG/university/31835.htm
+
+  - logo: logo_betam.png
+    text: "Beta maṣāḥǝft. Die Schriftkultur des christlichen Äthiopiens und Eritreas: Eine multimediale Forschungsumgebung (Hamburg)"
+    url: https://www.betamasaheft.uni-hamburg.de/
+
+  - logo: traces.png
+    text: "TraCES: From Translation to Creation: Changes in Ethiopic Style and Lexicon from Late Antiquity to the Middle Ages (Hamburg)"
+    url: https://www.traces.uni-hamburg.de
+
+  - logo: logo_digilab.png
+    text: "DigiLab (Rome) - Advisor for PAThs: dr. Lanfranco Fabriani"
+    url: http://digilab.uniroma1.it/
+
+  - logo: cobb_mississipi.png
+    text: "Cobb Institute of Archaeology. College of Arts & Sciences, Mississippi State University"
+    url: http://www.cobb.msstate.edu/
+
+  - logo: logoWawaEn.jpg
+    text: "Polish Centre of Mediterranean Archaeology of the University of Warsaw (PCMA) (Warsaw, Poland)"
+    url: http://www.pcma.uw.edu.pl/en/about-pcma/
+
+  - logo: bam.png
+    text: "Bundesanstalt für Materialforschung und -prüfung (BAM)"
+    url: https://www.bam.de/Navigation/EN
+
+---
+{% for item in page.items %}
+- ![{{ item.text }}](images/partners/{{ item.logo }})[**{{item.text}}**]({{ item.url }})
 {% endfor %}

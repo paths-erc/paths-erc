@@ -134,13 +134,13 @@ students:
   - Raimondo Squitieri
 ---
 
-<div class="row">
+<div class="row my-5">
 
 {% for item in page.staff %}
   <div class="col-12 col-md-4 col-lg-3 my-1">
 
     <div class="card">
-      <img src={{"/images/team/" | append: item.image | append: ".jpg" | relative_url }} class="card-img-top" alt="{{ item.name }}">
+      <img src="{{"/images/team/" | append: item.image | append: ".jpg" | relative_url }}" class="card-img-top" alt="{{ item.name }}" />
       <div class="card-body">
         <h5 class="card-title">{{ item.title }} {{ item.name }}</h5>
         <p class="card-text text-secondary">
@@ -161,32 +161,24 @@ students:
 {% endfor %}
 </div>
 
-<div class="border-top my-5 py-5">
-  Although not formally part of the staff of "PAThs", the following scholars, PhD candidates and students, because of their research interests or training activities, strictly collaborate with the project:
-
-  <h2 class="mt-5">Affiliated collaborators</h2>
-  <ul class="mt-3">
-  {% for item in site.data.team.affiliated %}
-    <li><strong>{{ item.name }}</strong><br />
-      {{ item.position }}</li>
-  {% endfor %}
-  </ul>
-
-
-  <h2 class="mt-5">Phd Students</h2>
-  <ul class="mt-3">
-  {% for item in page.phd %}
-    <li><strong>{{ item.name }}</strong><br />
-      {{ item.position }}</li>
-  {% endfor %}
-  </ul>
-
-  <h2 class="mt-5">Students</h2>
-  <ul class="mt-3">
-  {% for item in page.students %}
-    <li><strong>{{ item }}</strong></li>
-  {% endfor %}
-  </ul>
-
-
+<div class="my-5 py-3 border-top border-bottom lead">
+Although not formally part of the staff of "PAThs", the following scholars, PhD candidates and students, because of their research interests or training activities, strictly collaborate with the project.
 </div>
+
+## Affiliated collaborators
+{% for item in page.affiliated %}
+- **{{ item.name }}**  
+  {{ item.position }}
+{% endfor %}
+
+
+## Phd Students
+  {% for item in page.phd %}
+- **{{ item.name }}**
+  {{ item.position }}
+{% endfor %}
+
+## Students
+{% for item in page.students %}
+- **{{ item }}**
+{% endfor %}

@@ -50,7 +50,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         {% for item in site.data.menu.docs %}
-           <li class="nav-item{% if page.url == item.url %} active{% endif %}">
+           <li class="nav-item{% if page.url == item.url %} active border-bottom{% endif %}">
              <a class="nav-link" href="{{ item.url }}" alt="{{ item.title }}" title="{{ item.title }}">
                {{ item.title }}
              </a>
@@ -69,6 +69,11 @@
         {% if page.img %}
         <div class="my-5 text-center">
           <img src={{ page.img | relative_url }} alt="European Research Council" class="img-fluid img-thumbnail" />
+        </div>
+        {% endif %}
+        {% if page.calendar %}
+        <div class="mb-3 text-right">
+          <span class="text-info border-bottom pb-1 border-info">{{ page.calendar }}</span>
         </div>
         {% endif %}
         {{ content }}

@@ -1,21 +1,24 @@
 ---
 title: Workshops, conferences, scientific meetings and other activities related to PAThs carried out by single team members or by the staff as a whole
 permalink: /news
+class: news
 layout: default
 ---
-<section class="news blog mt-5">
+<section class="row mt-5">
   {% assign doclist = site.news %}
   {% for doc in doclist reversed %}
-    <article class="my-3 py-3 border-bottom">
-      <h4>
-        <a href="{{ doc.url }}" title="{{ doc.title }}">
-          {{ doc.title }}
-        </a>
-      </h4>
-      <div class="my-1">
-        <span class="badge badge-pill badge-light p-2">{{ doc.calendar }}</span>
-      </div>
+    <div class="col-sm-6 p-3">
+      <article class="m-1 rounded">
+        <h4>
+          <a href="{{ doc.url }}" title="{{ doc.title }}">
+            {{ doc.title }}
+          </a>
+        </h4>
+        <div class="my-1">
+          <span class="badge badge-pill badge-light p-2">{{ doc.calendar }}</span>
+        </div>
 
-    </article>
+      </article>
+    </div>
     {% endfor %}
 </section>
