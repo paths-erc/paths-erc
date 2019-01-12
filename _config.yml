@@ -5,7 +5,5 @@ logo: paths-logo.png
 collections:
   news:
     output: true
-  team:
-    output: true
 
 exclude: [migration/]
