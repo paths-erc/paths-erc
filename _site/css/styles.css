@@ -1,10 +1,12 @@
 h1, h2, h3, h4, h5, h6 { font-family: Merriweather; font-weight: bold; }
 
-.navbar { top: 0; left: 0; right: 0; position: absolute; }
+nav.navbar { top: 0; left: 0; right: 0; position: absolute; background-color: rgba(0, 0, 0, 0.6) !important; }
+@media (min-width: 576px) { nav.navbar { background-color: rgba(0, 0, 0, 0.3) !important; } }
+nav.navbar a { color: #fff !important; }
 
-nav.bg-light { background-color: rgba(0, 0, 0, 0.6) !important; }
-@media (min-width: 576px) { nav.bg-light { background-color: rgba(0, 0, 0, 0.3) !important; } }
-nav.bg-light a { color: #fff !important; }
+.img-container { background: url("../images/css/paths-header.jpg"); padding-top: 50px; width: 100% !important; height: 300px; background-size: cover; background-repeat: no-repeat; background-position: 50% 50%; overflow: hidden; }
+.img-container h1 { color: white; font-size: 2rem; padding: 1rem; padding-left: 1rem; text-shadow: 0 0 1rem #000; }
+@media (min-width: 576px) { .img-container h1 { font-size: 2.5rem; width: 60%; padding: 50px; padding-left: 4rem; } }
 
 .news h4 a { color: #8E072C; }
 
@@ -15,7 +17,3 @@ nav.bg-light a { color: #fff !important; }
 .cooperation ul li p a { display: block; text-align: center; padding-bottom: 1rem; border-bottom: 1px dotted #8E072C; }
 @media (min-width: 768px) { .cooperation ul li p img { float: left; margin-right: 2rem; padding-right: 1rem; border-right: 1px dotted #8E072C; }
   .cooperation ul li p a { padding-top: 2rem; text-align: left; border-bottom: none; } }
-
-.img-container { background: url("../images/css/paths-header.jpg"); padding-top: 50px; width: 100% !important; height: 300px; background-size: cover; background-repeat: no-repeat; background-position: 50% 50%; overflow: hidden; }
-.img-container h1 { color: white; font-size: 2rem; padding: 1rem; padding-left: 1rem; text-shadow: 0 0 1rem #000; }
-@media (min-width: 576px) { .img-container h1 { font-size: 2.5rem; width: 60%; padding: 50px; padding-left: 4rem; } }
