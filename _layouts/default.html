@@ -61,6 +61,45 @@
     </div>
   </nav>
 
+  {% if page.permalink == '/' %}
+  <div class="container my-5 py-3">
+    <div class="row">
+
+      <div class="col-sm-5">
+        <div class="card shadow">
+          <h5 class="card-header">Atlas</h5>
+          <div class="card-body">
+            <p class="card-text">The archaeological Atlas of Coptic Literary.</p>
+            <a href="https://atlas.paths-erc.eu" class="card-link">Open</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="card shadow">
+          <h5 class="card-header">Documentation</h5>
+          <div class="card-body">
+            <p class="card-text">Read the docs</p>
+            <a href="https://docs.paths-erc.eu" class="card-link">Open</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3">
+        <div class="card shadow">
+          <h5 class="card-header">More tools</h5>
+
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"><a href="https://cmcl2unicode.paths-erc.eu" class="card-link">cmcl2unicode</a></li>
+            <li class="list-group-item"><a href="https://quireMatrix.paths-erc.eu" class="card-link">quireMatrix</a></li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  {% endif %}
+
 
   <div class="container">
     <main>
