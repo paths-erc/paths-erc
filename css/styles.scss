@@ -43,14 +43,12 @@ nav.navbar{
   h1{
     color: white;
     font-size: 2rem;
-    padding: 1rem;
     padding-left: 1rem;
     text-shadow: 0 0 1rem #000;
 
     @media (min-width: 576px) {
       font-size: 2.5rem;
       width: 60%;
-      padding: 50px;
       padding-left: 4rem;
     }
   }
