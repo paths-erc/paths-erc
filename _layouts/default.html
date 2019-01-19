@@ -64,6 +64,28 @@
   </nav>
 
   {% if page.permalink == '/' %}
+  
+  {% for art in site.news %}
+    {% if art.home %}
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 offset-md-2 my-5">
+          <div class="p-5 bg-warning shadow-lg border text-center">
+              {% if art.calendar %}
+                <div class="text-right border-bottom border-secondary mb-2">
+                  <strong><i class="far fa-calendar-check"></i> {{ art.calendar }}</strong>
+                </div>
+              {% endif %}
+            <a href="{{ art.url }}" class="text-body lead" title="{{ art.title }}">
+              <i class="fas fa-star"></i> {{ art.title }}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+
   <div class="container my-5 py-3">
     <div class="row">
 
