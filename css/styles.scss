@@ -46,10 +46,18 @@ nav.navbar{
     padding-left: 1rem;
     text-shadow: 0 0 1rem #000;
 
-    @media (min-width: 576px) {
+    img{
+      background: #fff;
+      max-width: 70px;
+    }
+
+    @media (min-width: 768px) {
+      width: 80%;
       font-size: 2.5rem;
-      width: 60%;
       padding-left: 4rem;
+      img{
+        max-width: 150px;
+      }
     }
   }
 }

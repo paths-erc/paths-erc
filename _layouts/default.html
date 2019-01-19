@@ -39,7 +39,10 @@
 
 <body>
   <div class="img-container">
-    <h1>PAThs<br />
+
+    <h1>
+      <img src="/images/css/paths-logo.png" class="float-left mr-3 rounded shadow" alt="PAThs. Tracking Papyrus and Parchment Paths. An Archaeological Atlas of Coptic Literature">
+      PAThs<br />
       <small>Tracking Papyrus and Parchment Paths. An Archaeological Atlas of Coptic Literature.</small>
     </h1>
   </div>
@@ -64,7 +67,7 @@
   </nav>
 
   {% if page.permalink == '/' %}
-  
+
   {% for art in site.news %}
     {% if art.home %}
     <div class="container">
