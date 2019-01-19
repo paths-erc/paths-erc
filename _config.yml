@@ -6,4 +6,4 @@ collections:
   news:
     output: true
 
-exclude: [migration/]
+exclude: [migration/, paths]

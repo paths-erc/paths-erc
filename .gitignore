@@ -1,4 +1,5 @@
 migration/
+paths
 _site/
 
 .DS_Store
