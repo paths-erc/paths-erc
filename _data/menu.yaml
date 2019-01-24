@@ -4,6 +4,9 @@ docs:
 - title: Home
   url: /
 
+- title: Mission statement
+  url: /mission-statement
+
 - title: The Atlas
   url: https://atlas.paths-erc.eu
 
@@ -18,7 +21,3 @@ docs:
 
 - title: News
   url: /news
-
-
-- title: Contact & info
-  url: /contact

@@ -140,7 +140,7 @@ students:
   <div class="col-12 col-md-4 col-lg-3 my-1">
 
     <div class="card">
-      <img src="{{"/images/team/" | append: item.image | append: ".jpg" | relative_url }}" class="card-img-top" alt="{{ item.name }}" />
+      <img src="{{"/images/team/" | append: item.image | append: ".jpg" | relative_url }}" class="card-img-top mb-5 p-5" alt="{{ item.name }}" />
       <div class="card-body">
         <h5 class="card-title">{{ item.title }} {{ item.name }}</h5>
         <p class="card-text text-secondary">
