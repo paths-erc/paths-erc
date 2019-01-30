@@ -11,11 +11,9 @@ img: images/news/42.jpg
 
  
 
-Julian Bogdani has partecipated at the 22<sup>th</sup> edition of the  <a href="http://www.chnt.at/" target="_blank" rel="noopener">International Conference on Cultural Heritage and New Technologies</a> in Vienna, Austria dedicated to the topic of “<a href="http://www.chnt.at/schedule-2017/" target="_blank" rel="noopener">Urban Archaeology and Integration</a>” with the paper “<a href="http://www.chnt.at/paths/" target="_blank" rel="noopener">Putting together Digital Humanities and Archaeology to reconstruct Late Antique and Early Medieval Egyptian landscape</a>”.
+Julian Bogdani has partecipated at the 22<sup>th</sup> edition of the [International Conference on Cultural Heritage and New Technologies](http://www.chnt.at) in Vienna, Austria dedicated to the topic of “[Urban Archaeology and Integration](http://www.chnt.at/schedule-2017/)” with the paper “[Putting together Digital Humanities and Archaeology to reconstruct Late Antique and Early Medieval Egyptian landscape](http://www.chnt.at/paths/)”.
 
-<hr />
-<ul>
-<li><a href="http://www.chnt.at/" target="_blank" rel="noopener">Conference website </a></li>
-<li><a href="http://www.chnt.at/schedule-2017/" target="_blank" rel="noopener">2017 edition programme</a></li>
-<li><a href="http://www.chnt.at/paths/" target="_blank" rel="noopener">Talk abstract and metadata</a></li>
-</ul>
+---
+- [Conference website](http://www.chnt.at)
+- [2017 edition programme](http://www.chnt.at/schedule-2017)
+- [Talk abstract and metadata](http://www.chnt.at/paths)

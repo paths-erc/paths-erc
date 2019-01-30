@@ -13,6 +13,6 @@ After a first session during which the inks had been measured with DinoLite, XRF
 
 Codices II, IX and XIII, plus a parchment codex published by de Lagarde have been the object of the measurements.
 
-Paola Buzi was present on May 11, during the analysis of the so-called "Dono Peyron" - 2 unpublished leaves belonging Codex IX - that, because of their excellent state of preservation, are particularly valuable for this kind of research and may reveal important data on the book production.
+Paola Buzi was present on May 11, during the analysis of the so-called “Dono Peyron” - 2 unpublished leaves belonging Codex IX - that, because of their excellent state of preservation, are particularly valuable for this kind of research and may reveal important data on the book production.
 
  

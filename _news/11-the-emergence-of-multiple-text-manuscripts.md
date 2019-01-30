@@ -13,6 +13,6 @@ img: images/news/16.jpg
 
 Paola Buzi has partecipated in the conference organized by the Centre for the Study of Manuscripts Cultures (Hamburg University) "The Emergence of Multiple-Text Manuscripts" with the paper " The Ninth-Century Coptic Book Revolution and the Emergence of Multiple- Texts Manuscripts".
 
-<a href="https://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC_2016_Emergence_MTM_programme.pdf">https://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC_2016_Emergence_MTM_programme.pdf</a>
+[https://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC_2016_Emergence_MTM_programme.pdf](https://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC_2016_Emergence_MTM_programme.pdf)
 
  

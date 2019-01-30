@@ -7,4 +7,4 @@ calendar: 15 December 2016
 img: images/news/16.jpg
 ---
 
-Prof. Tito Orlandi, Professor Emeritus of Sapienza University of Rome and member of the 'Accademia dei Lincei', meets the PAThs team on December 15, to discuss aspects of the codicological description and the classifications of colophons.
+Prof. Tito Orlandi, Professor Emeritus of Sapienza University of Rome and member of the “Accademia dei Lincei”, meets the PAThs team on December 15, to discuss aspects of the codicological description and the classifications of colophons.

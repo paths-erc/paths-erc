@@ -9,6 +9,6 @@ img: images/news/45.jpg
 
 Paola Buzi has been inviated as keynote speaker at the yearly conference of the Associazione di Informatica Umanistica e Cultura Digitale. The structure, philosophy and management of the PAThs project was presented as a case study of multi-disciplinary enterprise involving digital humanities:
 
-<a href="http://www.aiucd2018.uniba.it/">http://www.aiucd2018.uniba.it/</a>
+[http://www.aiucd2018.uniba.it/](http://www.aiucd2018.uniba.it)
 
-<a href="http://www.aiucd2018.uniba.it/keynotes.html">http://www.aiucd2018.uniba.it/keynotes.html</a>
+[http://www.aiucd2018.uniba.it/keynotes.html](http://www.aiucd2018.uniba.it/keynotes.html)

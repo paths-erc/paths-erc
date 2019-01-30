@@ -15,6 +15,6 @@ The administration and organization of economy in different monastic contexts, w
 
 The conference was organized by IRSB, in collaboration with the PAThs project PAThs.
 
-<a href="https://repopub.unil.ch/newsunil/document/1507112203534.D1507112311113">https://repopub.unil.ch/newsunil/document/1507112203534.D1507112311113</a>
+[https://repopub.unil.ch/newsunil/document/1507112203534.D1507112311113](https://repopub.unil.ch/newsunil/document/1507112203534.D1507112311113)
 
  

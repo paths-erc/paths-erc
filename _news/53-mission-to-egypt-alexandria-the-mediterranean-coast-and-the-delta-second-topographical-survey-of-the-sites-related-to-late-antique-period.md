@@ -13,4 +13,4 @@ Old and recent archaeological reports have been used as a guide to verify what o
 
 The numerous necropoleis of Alexandria, Abu Mina, Kellia, Nitria, Sais, Xois, Taposiris Magna, Marea, and Marina el Alamein are some of the sites that have been analysed, also to verify  their state of preservation since, as is well known, the archaeological sites in the Delta are often in a precarious situation.
 
-The results of this second mission are extremely valuable for the construction of the Digital Atlas of Coptic Literature, that is the main scientific "product" of PAThs.
+The results of this second mission are extremely valuable for the construction of the Digital Atlas of Coptic Literature, that is the main scientific “product” of PAThs.

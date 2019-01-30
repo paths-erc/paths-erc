@@ -11,4 +11,4 @@ Nathan Carlig has taken part in the conference “Deux siècles au service des
 
 before and after the conference he has meet the CEDOPAL team to discuss new scientific photographic methods (hyperspectral, etc.) they are used for the Liège papyri, in order to evaluate the opportuniy to use the same methods for Coptic Literary Manuscripts.
 
-<a href="sites/default/images/articles/media/18/ProgrammeBicentenaire.pdf" target="_blank" rel="noopener">Download the Conference programme in PDF</a>
+[Download the Conference programme in PDF](../images/dwnl/ProgrammeBicentenaire.pdf)

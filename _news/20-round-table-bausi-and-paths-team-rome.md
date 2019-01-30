@@ -7,7 +7,7 @@ calendar: 8 March 2017
 img: images/news/22.jpg
 ---
 
-On March 8, 2017, Prof. Alessandro Bausi (Hamburg University) - PI of the ERC project "TraCES" and of the project Beta maṣāḥǝft and Visiting Professor for 3 months at Sapienza University - has met the PAThs team to discuss common aspects of the research work, such as the mark-up of Coptic texts, the codicological description, and the classification of author and works.
+On March 8, 2017, Prof. Alessandro Bausi (Hamburg University) - PI of the ERC project “TraCES” and of the project Beta maṣāḥǝft and Visiting Professor for 3 months at Sapienza University - has met the PAThs team to discuss common aspects of the research work, such as the mark-up of Coptic texts, the codicological description, and the classification of author and works.
 
 Other round tables will be organised with Alessandro Bausi and his team members, due to strong relationship between our projects.
 

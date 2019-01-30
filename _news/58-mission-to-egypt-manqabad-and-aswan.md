@@ -12,4 +12,4 @@ At first, Paola has worked for a few days at the Monastery of Abba Nefer (Manqab
 
 Old and recent archaeological reports have been used as a guide to verify what of these Christian settlements is still visible.
 
-The results of third mission are, as usual, extremely valuable for the construction of the Digital Atlas of Coptic Literature, that is the main scientific "product" of PAThs.
+The results of third mission are, as usual, extremely valuable for the construction of the Digital Atlas of Coptic Literature, that is the main scientific “product” of PAThs.

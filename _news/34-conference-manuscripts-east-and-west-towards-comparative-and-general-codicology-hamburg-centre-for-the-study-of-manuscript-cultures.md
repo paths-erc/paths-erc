@@ -15,6 +15,6 @@ Paola Buzi was invited by the organizers in order to illustrate the model for co
 
 The programme of the conference is downloadable here:
 
-<a href="http://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC%20Conference%20Beit-Arie%20Programme%20and%20Abstracts.pdf">http://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC%20Conference%20Beit-Arie%20Programme%20and%20Abstracts.pdf</a>
+[http://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC%20Conference%20Beit-Arie%20Programme%20and%20Abstracts.pdf](http://www.manuscript-cultures.uni-hamburg.de/cal-details/CSMC%20Conference%20Beit-Arie%20Programme%20and%20Abstracts.pdf)
 
  

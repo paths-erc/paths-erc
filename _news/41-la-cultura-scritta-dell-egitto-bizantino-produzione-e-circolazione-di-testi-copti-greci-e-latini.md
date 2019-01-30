@@ -13,12 +13,12 @@ Paola Buzi has been invited to present the PAThs project on the occasion of the 
 
 Conference and workshop programme:
 
-<a href="https://testiegittobiz.sciencesconf.org/program">https://testiegittobiz.sciencesconf.org/program</a>
+[https://testiegittobiz.sciencesconf.org/program](https://testiegittobiz.sciencesconf.org/program)
 
  
 
 Conference abstract: 
 
-<a href="https://testiegittobiz.sciencesconf.org/data/program/Buzi_abstract.pdf">https://testiegittobiz.sciencesconf.org/data/program/Buzi_abstract.pdf</a>
+[https://testiegittobiz.sciencesconf.org/data/program/Buzi_abstract.pdf](https://testiegittobiz.sciencesconf.org/data/program/Buzi_abstract.pdf)
 
  

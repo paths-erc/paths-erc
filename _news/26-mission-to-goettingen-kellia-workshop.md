@@ -7,7 +7,7 @@ calendar: 19-23 June 2017
 img: images/news/26.jpg
 ---
 
-From 19 to 23 June 2017 Paola Buzi,  Julian Bogdani and Agostino Soldati  have taken part in the workshop organized in Goettingen by the KELLIA group, that is the projects "Digital Edition of Coptic Old Testament" and "Coptic Scriptorium".
+From 19 to 23 June 2017 Paola Buzi,  Julian Bogdani and Agostino Soldati  have taken part in the workshop organized in Goettingen by the KELLIA group, that is the projects “Digital Edition of Coptic Old Testament” and “Coptic Scriptorium”.
 
 The workshop had the aim of sharing achievements and methodologies of different digital projects related Greek and Coptic studies.
 
