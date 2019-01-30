@@ -36,7 +36,7 @@ For more information, see the Introduction to the individual sections of the Atl
 ## Technical Information
 
 **Paola Buzi**  
-Dipartimento di Storia Culture Religioni Arte Spettacolo  
+Dipartimento di Storia Antropologia Religioni Arte Spettacolo
 Facoltà di Lettere e Filosofia  
 Sapienza Università di Roma  
 Piazzale Aldo Moro 5, 00185 Roma – Italy  
@@ -45,7 +45,7 @@ Tel. + 39 06 49913419
 
 - Acronym and title: PAThs - Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary Texts in their Geographical Context: Production, Copying, Usage, Dissemination and Storage
 - Principal Investigator: Paola Buzi
-- Hosting Institution: Sapienza Università di Roma, Dipartimento di Storia Culture Religioni
+- Hosting Institution: Sapienza Università di Roma, Dipartimento di Storia Antropologia Religioni Arte Spettacolo
 - ERC call: Advanced Grant 2015
 - Start date: November, 1, 2016
 - End date: October, 31, 2021
