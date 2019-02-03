@@ -8,13 +8,15 @@ home: true
 ---
 
 ##### Rome, Sapienza Università di Roma, 25-27 February, 2019
-### Provisional Programme
+### Conference Programme
 **25 February**
 
 Facoltà di Lettere e Filosofia. Odeion – underground floor
 
 - **9.30-10.00** Welcome address of the Academic Authorities  
-Director of the Dipartimento di Storia, Antropologia, Religioni, Arte, Spettacolo
+Eugenio Gaudio, Rector of Sapienza University of Rome  
+Gaetano Lettieri, Director of the Dipartimento di Storia, Antropologia, Religioni, Arte, Spettacolo
+
 
 
 #### I Session
@@ -58,7 +60,6 @@ Chair: Tito Orlandi 
 - **17.45-18.15** Tea Ghigo  
 *Scientific systematic study of inks from Coptic manuscripts*
 - **18.15-18.45** Discussion
-- **20.00** Dinner (speakers and discussants)
 
 **26 February**
 
@@ -88,15 +89,14 @@ Chair: Alberto Camplani
 Chair:  Gianfranco Agosti
 
 
-- **14.30-15.00** Alain Delattre  
-*Coptic literary manuscripts from Antinoupolis: Old and new discoveries*
-- **15.00-15.30 **Andrea Hasznos
-- *No Literary Texts from Elephantine?*
-- **15.30-16.00** Adam Łajtar, Artur Obłuski  
+- **14.30-15.00** Adam Łajtar, Artur Obłuski  
 *Literacy of Christian Nubia in context*
+- **15.30-16.00** Alain Delattre  
+*Coptic literary manuscripts from Antinoupolis: Old and new discoveries*
+- **16.00-16.30** Andrea Hasznos
+- *No Literary Texts from Elephantine?*
 - **16.00-16.30 Coffee break**
 - **16.30-18.00 Discussion**
-- **20.00 Dinner** (speakers and discussants)
 
 **27 February**
 
@@ -123,11 +123,16 @@ Chair: Francesca Romana Stasolla
 *Further reflections on the Byzantine fortress at Oxyrhynchus*
 - ***13.00-13.30 Discussion and conclusions***  
 Discussants:
-  - **Alberto Camplani**
-  - **Delio Vania Proverbio**
-  - **Ewa Wipszycka**
-  - **Paola Moscati**
   - **Lloyd Abercrombie**
+  - **Alessandro Bausi**
+  - **Heike Behlmer**
+  - **Alberto Camplani**
+  - **Eliana Dal Sasso**
+  - **Paola Moscati**
+  - **Delio Vania Proverbio**
+  - **Paolo Rosati**
+  - **Ewa Wipszycka**
+
 
 - **13.30-15.00 Lunch**
 
