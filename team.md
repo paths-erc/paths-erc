@@ -122,16 +122,10 @@ phd:
 
 students:
   - Debora Casini
-  - Ludovica Di Filippo
-  - Elisa Evangelisti
+  - Domizia D'Erasmo
   - Elisabetta Falduto
   - Ilaria Lely
-  - Maria Viola Mastrone
   - Laura Restelli
-  - Lorenzo Ricci
-  - Mena Sacchetti
-  - Miriam Giusy Sangermano
-  - Raimondo Squitieri
 ---
 
 <div class="row my-5">
