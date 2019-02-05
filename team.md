@@ -92,13 +92,13 @@ affiliated:
   - name: Prof. Dr. Gianfranco Agosti
     position: Greek Philology, Late Antiquity
 
-  - name: Prof. Dr. Maria Chiara Giorda
+  - name: Prof. Dr. Maria Chiara Giorda (former team member of “PAThs”)
     position: Monasticism, Coptic Literature
 
   - name: Dr. Lanfranco Fabriani
     position: Digital humanities, Coptic encoding matters
 
-  - name: Dr. Ilaria Rossetti
+  - name: Dr. Ilaria Rossetti (former team member of “PAThs”)
     position: Egyptian archaeology, G.I.S.
 
   - name: Dr. Richard Westall
