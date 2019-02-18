@@ -41,7 +41,7 @@ Chair: Emanuela Prinzivalli
 *The Archaeological Atlas of Coptic Literature: notes and considerations on the first release of a visualisation, querying and research tool*
 - **11.45-12.15** Nathan Carlig  
 *The PAThs protocol of codicological description and the book formats of the Achmîm papyri (4th cent.)*
-- 12.15-12.45 Francesco Valerio  
+- **12.15-12.45** Francesco Valerio  
 *The PAThs protocol of codicological description/II: Scribes and scripts in the library of the Monastery of the Archangel Michael at Phantoou*
 - **12.45-13.15** Francesco Berno  
 *The section of the PAThs database dedicated to Works and Authors, and the Periodization of Coptic Literature: the case study of Coptic homilies*
