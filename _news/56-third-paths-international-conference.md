@@ -100,8 +100,8 @@ Chair:  Gianfranco Agosti
 *Literacy of Christian Nubia in context*
 - **15.30-16.00** Alain Delattre  
 *Coptic literary manuscripts from Antinoupolis: Old and new discoveries*
-- **16.00-16.30** Andrea Hasznos
-- *No Literary Texts from Elephantine?*
+- **16.00-16.30** Andrea Hasznos  
+*No Literary Texts from Elephantine?*
 - **16.00-16.30 Coffee break**
 - **16.30-18.00 Discussion**
 
