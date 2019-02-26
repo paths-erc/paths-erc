@@ -80,7 +80,7 @@ Chair: Alberto Camplani
 
 - **9.30-10.00** Frank Feder  
 *Manuscripts wanting homes: early Biblical manuscripts from Hermopolis Magna and Antinoupolis*
-- **10.00-10.30** Hugo Ludhaug  
+- **10.00-10.30** Hugo Lundhaug  
 *Textual Fluidity and the Monastic Transmission of Coptic Apocrypha*
 - **10.30-11.00** Christian Hervig Bull  
 *From the City to the Desert: Panopolis and the Pachomian federation as context for the Nag Hammadi Codices*
