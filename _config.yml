@@ -1,9 +1,0 @@
-title: PAThs ERC
-description: PAThs ERC Advanced project by Paola Buzi, hosted at Sapienza University of Rome official page
-logo: paths-logo.png
-
-collections:
-  news:
-    output: true
-
-exclude: [migration/, paths]
